@@ -1,0 +1,25 @@
+#div-table{
+    width: fit-content;
+    height: fit-content;
+    padding: 0%;
+    margin: auto;
+}
+
+.blacked{
+    background-color: black;
+}
+
+.whited{
+    background-color: white;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td, tr{
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
